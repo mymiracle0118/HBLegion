@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HB Legion 8">
+</Property><Property Name="Solution File" Value="C:\legion\src\HB Legion 8.sln">
+</Property><Property Name="Date" Value="Sunday, October 07, 2012">
+</Property><Property Name="Time" Value="17:18 PM">
+</Property></Properties><Event ErrorLevel="0" Project="HGserver" Source="HG Server\HGserver.vcproj" Description="Converting project file 'C:\legion\src\HG Server\HGserver.vcproj'.">
+</Event><Event ErrorLevel="0" Project="HGserver" Source="HG Server\xsd-cxx-tree.rules" Description="Converting 'C:\legion\src\HG Server\xsd-cxx-tree.rules'.">
+</Event><Event ErrorLevel="1" Project="HGserver" Source="HG Server\xsd-cxx-tree.rules" Description="Semicolon is the only supported separator in MSBuild. Usage of any other separator for Custom Build Rule string properties is invalid after conversion.">
+</Event><Event ErrorLevel="0" Project="HGserver" Source="HG Server\xsd-cxx-tree.rules" Description="Done processing 'C:\legion\src\HG Server\xsd-cxx-tree.rules'.">
+</Event><Event ErrorLevel="3" Project="HGserver" Source="HG Server\xsd-cxx-tree.rules" Description="Converted">
+</Event><Event ErrorLevel="1" Project="HGserver" Source="HG Server\HGserver.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="HGserver" Source="HG Server\HGserver.vcproj" Description="MSB8012: $(TargetName) ('HGserver') does not match the Linker's OutputFile property value '.\..\..\HGserver\HGserver_d.exe' ('HGserver_d') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="HGserver" Source="HG Server\HGserver.vcproj" Description="MSB8012: $(TargetPath) ('C:\legion\src\HG Server\.\..\..\HGserver\HGserver.exe') does not match the Linker's OutputFile property value '.\..\..\HGserver\HGserver_d.exe' ('C:\HGserver\HGserver_d.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="HGserver" Source="HG Server\HGserver.vcproj" Description="MSB8012: $(TargetPath) ('C:\legion\src\HG Server\.\..\..\HGserver\HGserver.exe') does not match the Linker's OutputFile property value '.\..\..\HGserver\HGserver.exe' ('C:\HGserver\HGserver.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="HGserver" Source="HG Server\HGserver.vcproj" Description="Tool name 'C++/Tree Mapping Rule' is not supported in this version and it was renamed as 'CXX_Tree_Mapping_Rule'.">
+</Event><Event ErrorLevel="0" Project="HGserver" Source="HG Server\HGserver.vcproj" Description="Done converting to new project file 'C:\legion\src\HG Server\HGserver.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="HGserver" Source="HG Server\HGserver.vcproj" Description="Converted">
+</Event><Event ErrorLevel="3" Project="LoginServer" Source="Login Server\LoginServer.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client3\Client.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="HB Legion 8.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="HB Legion 8.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

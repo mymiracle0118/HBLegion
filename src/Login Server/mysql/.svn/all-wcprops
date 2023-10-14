@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/mysql
+END
+mysql_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/mysql/mysql_version.h
+END
+my_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/mysql/my_alloc.h
+END
+my_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/mysql/my_list.h
+END
+mysql_com.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/mysql/mysql_com.h
+END
+mysql_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/mysql/mysql_time.h
+END
+mysql.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/mysql/mysql.h
+END
+typelib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/mysql/typelib.h
+END

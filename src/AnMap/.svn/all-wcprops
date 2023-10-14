@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/Legion/!svn/ver/2/trunk/src/AnMap
+END
+ProgressBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/ProgressBar.h
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/StdAfx.h
+END
+Minimap.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Minimap.h
+END
+RenderDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/RenderDialog.cpp
+END
+Splash.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Splash.h
+END
+AnMap.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.rc2
+END
+AnMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.h
+END
+Sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Sprite.cpp
+END
+UpgradeLog.XML
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/UpgradeLog.XML
+END
+AnMapDoc.ico
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMapDoc.ico
+END
+Undo.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Undo.h
+END
+mssccprj.scc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/mssccprj.scc
+END
+AnMap.rc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.rc
+END
+brushview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/brushview.cpp
+END
+AnMap.suo
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.suo
+END
+MiniView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/MiniView.cpp
+END
+AnMapDoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMapDoc.h
+END
+AnMapView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMapView.cpp
+END
+TileSpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/TileSpr.h
+END
+ProgressBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/ProgressBar.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/StdAfx.cpp
+END
+Minimap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Minimap.cpp
+END
+MiniMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/MiniMapView.h
+END
+Splash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Splash.cpp
+END
+NewMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/NewMap.h
+END
+AnMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/resource.h
+END
+OptionDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/OptionDialog.h
+END
+MainFrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/MainFrm.h
+END
+Toolbar.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Toolbar.bmp
+END
+Properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Properties.h
+END
+Tile.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Tile.h
+END
+RenderDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/RenderDialog.h
+END
+AnMap.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.vcxproj
+END
+Undo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Undo.cpp
+END
+AnMap.sln
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.sln
+END
+Sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Sprite.h
+END
+AnMap.opt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.opt
+END
+AnMap.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.vcxproj.filters
+END
+AnMap.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.vcproj
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/vssver.scc
+END
+AnMap.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.vcxproj.user
+END
+AnMapDoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMapDoc.cpp
+END
+TileSpr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/TileSpr.cpp
+END
+brushview.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/brushview.h
+END
+AnMap.ico
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMap.ico
+END
+MiniMapView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/MiniMapView.cpp
+END
+NewMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/NewMap.cpp
+END
+anmap.reg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/anmap.reg
+END
+OptionDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/OptionDialog.cpp
+END
+MainFrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/MainFrm.cpp
+END
+Properties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Properties.cpp
+END
+MiniView.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/MiniView.h
+END
+AnMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/AnMapView.h
+END
+Tile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Legion/!svn/ver/2/trunk/src/AnMap/Tile.cpp
+END

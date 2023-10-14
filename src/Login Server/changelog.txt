@@ -1,0 +1,40 @@
+===============================================================================================================================
+version 0.92:
+*Fixed the bug that makes the server crash when a query is lost, or when the mysql db is busy;
+===============================================================================================================================
+version 0.93:
+*Party code fully working, replaced Party .cpp and .h with PartyManager .cpp and .h from official gate server source;
+*added QUERYERROR_LOGFILE, when a query return an error on ProcessQuery function, it will be logged;
+*fixed not appending a null character to the end of configuration variables, causing erroneus configuration read on hgserver;
+*fixed crashing sometimes when the ItemID = 0, due to the possibility of creating a item with the same ID in bank and in the bag;
+*raised the variable size for char *SendBuff inside ProcessRequestPlayerData, due to sending bad data when the info size is big (by Ice-T);
+===============================================================================================================================
+version 0.94
+*added function Delay(), it works as Sleep(), but without making the program to hang while waiting;
+*added check inside ProcessClientRequestEnterGame() to wait until the hgserver sends a reply so the character can change servers,
+ avoiding keeps waiting for a response forever when you're changing servers and the client connects to the logserver before the hgserver
+ tell that the client was already disconnected;
+===============================================================================================================================
+version 0.95
+*check if PartyID exists when loading character data, avoiding joining a non-existant party;
+*fixed ProcessQuery() function, it will only delay when an error occur;
+*added BOOL IsBeingClosed to GameServer class, avoiding players to enter the map while the game server is being closed;
+*the server's name will be red when it is being closed or wasn't activated;
+*changed netmessages.h so custom-made clients won't connect/play;
+*added StrTok.lib;
+*added class XSocket * pTmpSock at OnUserAccept and OnGateServerAccept, to close the socket when sockets limit was reached;
+===============================================================================================================================
+version 0.96
+*changed INT_PTR CALLBACK LoginDlgProc() to int CALLBACK LoginDlgProc() to avoid some compiler errors;
+*small fixes to warnings in debug mode;
+*fixed OnGameServerRead() and OnClientRead() doing buffer-overflow at PutLogFileList() sometimes;
+*fixed CGameServer::SendMsg() making logserver to crash when disconnecting a hgserver while sending a message;
+===============================================================================================================================
+version 0.97
+*updated libmysql.lib library to 4.1.1.14;
+*added a check on ProcessClientLogout function to see if any info on Data is empty;
+*fixed OptimizeDatabase(), RepairDatabase() and CheckActiveAccountsNumber();
+===============================================================================================================================
+version 0.971
+*fixed items getting deleted when the char logout more than once without modifying the bank;
+===============================================================================================================================

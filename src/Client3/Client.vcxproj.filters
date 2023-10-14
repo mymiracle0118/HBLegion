@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="char">
+      <UniqueIdentifier>{bbbe0717-bed2-4c1c-8b2a-71fd8c77a483}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="char\item">
+      <UniqueIdentifier>{b3870daf-83a6-45d4-a2c2-33487b4b7c25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="directx">
+      <UniqueIdentifier>{39aaeb92-9a49-479f-a72b-5e327e70ab3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{9ab7a710-e3bd-49d3-b464-efa7e8f9dae2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="map">
+      <UniqueIdentifier>{f837ceb4-954a-44d7-8e1a-997754be29e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="net">
+      <UniqueIdentifier>{fb30d95c-b33d-427d-99b4-433966bf0be7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res">
+      <UniqueIdentifier>{fbb21977-045f-4d0b-8ef4-52c1a2d8eee8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{06680369-cc24-40db-9ff7-73b1d39565af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui">
+      <UniqueIdentifier>{6679e1ae-aafe-4a35-b0c2-44493a85461a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lan">
+      <UniqueIdentifier>{56dd9978-d6c2-4459-9235-12ce6b55f8b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Res\icon1.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="Res\_OK.bmp">
+      <Filter>res</Filter>
+    </None>
+    <None Include="Res\htmlview(24).BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Shared\buffer.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClInclude Include="char\ActionID.h">
+      <Filter>char</Filter>
+    </ClInclude>
+    <ClInclude Include="char\CharInfo.h">
+      <Filter>char</Filter>
+    </ClInclude>
+    <ClInclude Include="char\Curse.h">
+      <Filter>char</Filter>
+    </ClInclude>
+    <ClInclude Include="char\DynamicObjectID.h">
+      <Filter>char</Filter>
+    </ClInclude>
+    <ClInclude Include="char\Guild.h">
+      <Filter>char</Filter>
+    </ClInclude>
+    <ClInclude Include="char\item\BuildItem.h">
+      <Filter>char\item</Filter>
+    </ClInclude>
+    <ClInclude Include="char\item\Item.h">
+      <Filter>char\item</Filter>
+    </ClInclude>
+    <ClInclude Include="char\item\ItemName.h">
+      <Filter>char\item</Filter>
+    </ClInclude>
+    <ClInclude Include="char\Magic.h">
+      <Filter>char</Filter>
+    </ClInclude>
+    <ClInclude Include="char\Skill.h">
+      <Filter>char</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\d3dtypes.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\DDraw.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\DInput.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\DSound.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\DXC_ddraw.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\DXC_dinput.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\DXC_dsound.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\Effect.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\Mydib.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\SoundBuffer.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\SoundID.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\Sprite.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\SpriteID.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\TileSpr.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX\YWSound.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="GlobalDef.h" />
+    <ClInclude Include="GlobalVal.h" />
+    <ClInclude Include="Map\MapData.h">
+      <Filter>map</Filter>
+    </ClInclude>
+    <ClInclude Include="Map\Tile.h">
+      <Filter>map</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc.h" />
+    <ClInclude Include="Net\Msg.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="Net\XSocket.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="Res\resource.h">
+      <Filter>res</Filter>
+    </ClInclude>
+    <ClInclude Include="StrTok.h" />
+    <ClInclude Include="UI\MouseInterface.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Winmain.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+    <ClInclude Include="lan_eng.h">
+      <Filter>lan</Filter>
+    </ClInclude>
+    <ClInclude Include="lan_spa.h">
+      <Filter>lan</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\DialogBox.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Res\resource.rc">
+      <Filter>res</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Shared\buffer.cpp">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClCompile Include="char\CharInfo.cpp">
+      <Filter>char</Filter>
+    </ClCompile>
+    <ClCompile Include="char\Curse.cpp">
+      <Filter>char</Filter>
+    </ClCompile>
+    <ClCompile Include="char\Guild.cpp">
+      <Filter>char</Filter>
+    </ClCompile>
+    <ClCompile Include="char\item\BuildItem.cpp">
+      <Filter>char\item</Filter>
+    </ClCompile>
+    <ClCompile Include="char\item\Item.cpp">
+      <Filter>char\item</Filter>
+    </ClCompile>
+    <ClCompile Include="char\item\ItemName.cpp">
+      <Filter>char\item</Filter>
+    </ClCompile>
+    <ClCompile Include="char\Magic.cpp">
+      <Filter>char</Filter>
+    </ClCompile>
+    <ClCompile Include="char\Skill.cpp">
+      <Filter>char</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX\DXC_ddraw.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX\DXC_dinput.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX\DXC_dsound.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX\Effect.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX\Mydib.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX\SoundBuffer.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX\Sprite.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX\TileSpr.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX\YWSound.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Map\MapData.cpp">
+      <Filter>map</Filter>
+    </ClCompile>
+    <ClCompile Include="Map\Tile.cpp">
+      <Filter>map</Filter>
+    </ClCompile>
+    <ClCompile Include="Misc.cpp" />
+    <ClCompile Include="Net\Msg.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="Net\XSocket.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="StrTok.cpp" />
+    <ClCompile Include="UI\MouseInterface.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Wmain.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\DialogBox.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\lib\DDRAW.LIB">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="..\..\lib\DINPUT.LIB">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="..\..\lib\DSOUND.LIB">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="..\..\lib\DXGUID.LIB">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="..\..\lib\search.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="..\..\lib\WINMM.LIB">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="..\..\lib\WSOCK32.LIB">
+      <Filter>lib</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

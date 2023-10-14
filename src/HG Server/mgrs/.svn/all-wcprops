@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/mgrs
+END
+GuildMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/mgrs/GuildMgr.h
+END
+PartyMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/mgrs/PartyMgr.cpp
+END
+GuildMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/mgrs/GuildMgr.cpp
+END
+PartyMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/mgrs/PartyMgr.h
+END

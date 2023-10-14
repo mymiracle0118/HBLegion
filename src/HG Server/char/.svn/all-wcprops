@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char
+END
+movement.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/movement.h
+END
+DelayEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/DelayEvent.cpp
+END
+Quest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Quest.cpp
+END
+Crafting.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Crafting.h
+END
+Party.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Party.h
+END
+Guild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Guild.cpp
+END
+combat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/combat.cpp
+END
+Elite.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Elite.h
+END
+Skill.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Skill.cpp
+END
+Client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Client.cpp
+END
+Unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Unit.cpp
+END
+Npc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Npc.cpp
+END
+Magic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Magic.cpp
+END
+HTNpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/HTNpc.h
+END
+GuildsMan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/GuildsMan.cpp
+END
+Crafting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Crafting.cpp
+END
+Party.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Party.cpp
+END
+ActionID.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/ActionID.h
+END
+Elite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Elite.cpp
+END
+SkillNum.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/SkillNum.h
+END
+DelayEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/DelayEvent.h
+END
+Quest.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Quest.h
+END
+Guild.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Guild.h
+END
+combat.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/combat.h
+END
+HTNpc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/HTNpc.cpp
+END
+Skill.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Skill.h
+END
+Client.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Client.h
+END
+Unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Unit.h
+END
+Npc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Npc.h
+END
+Magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/Magic.h
+END
+GuildsMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/GuildsMan.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item
+END
+BuildItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/BuildItem.cpp
+END
+Fish.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/Fish.h
+END
+Item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/Item.cpp
+END
+BuildItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/BuildItem.h
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/Item.h
+END
+Mineral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/Mineral.cpp
+END
+Potion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/Potion.cpp
+END
+Fish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/Fish.cpp
+END
+Mineral.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/Mineral.h
+END
+Potion.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/char/item/Potion.h
+END

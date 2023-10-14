@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C8D9C24B-FBFA-42D3-B242-B693E0B09834}"
+	ProjectSection(SolutionItems) = preProject
+		Shared\buffer.cpp = Shared\buffer.cpp
+		Shared\buffer.h = Shared\buffer.h
+		Shared\common.h = Shared\common.h
+		Shared\items.h = Shared\items.h
+		Shared\lgnSvcs.h = Shared\lgnSvcs.h
+		Shared\magicID.h = Shared\magicID.h
+		Shared\maps.h = Shared\maps.h
+		Shared\maths.h = Shared\maths.h
+		Shared\NetMessages.h = Shared\NetMessages.h
+		Shared\npcType.h = Shared\npcType.h
+		Shared\Skilltypes.h = Shared\Skilltypes.h
+		Shared\TypeDefs.h = Shared\TypeDefs.h
+		Shared\version.h = Shared\version.h
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HGserver", "HG Server\HGserver.vcxproj", "{ACEE894D-3B50-4C92-BE53-621951424477}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoginServer", "Login Server\LoginServer.vcxproj", "{9D160F06-C8DC-4384-88E9-69764B364D26}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client3\Client.vcxproj", "{B046891F-46C6-48B3-8BAC-777929D872EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEE894D-3B50-4C92-BE53-621951424477}.Debug|Win32.ActiveCfg = Release|Win32
+		{ACEE894D-3B50-4C92-BE53-621951424477}.Debug|Win32.Build.0 = Release|Win32
+		{ACEE894D-3B50-4C92-BE53-621951424477}.Release|Win32.ActiveCfg = Release|Win32
+		{ACEE894D-3B50-4C92-BE53-621951424477}.Release|Win32.Build.0 = Release|Win32
+		{9D160F06-C8DC-4384-88E9-69764B364D26}.Debug|Win32.ActiveCfg = Release|Win32
+		{9D160F06-C8DC-4384-88E9-69764B364D26}.Debug|Win32.Build.0 = Release|Win32
+		{9D160F06-C8DC-4384-88E9-69764B364D26}.Release|Win32.ActiveCfg = Release|Win32
+		{9D160F06-C8DC-4384-88E9-69764B364D26}.Release|Win32.Build.0 = Release|Win32
+		{B046891F-46C6-48B3-8BAC-777929D872EE}.Debug|Win32.ActiveCfg = Release|Win32
+		{B046891F-46C6-48B3-8BAC-777929D872EE}.Debug|Win32.Build.0 = Release|Win32
+		{B046891F-46C6-48B3-8BAC-777929D872EE}.Release|Win32.ActiveCfg = Release|Win32
+		{B046891F-46C6-48B3-8BAC-777929D872EE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

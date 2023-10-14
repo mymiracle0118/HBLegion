@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/Legion/!svn/ver/3/trunk/lib
+END
+search.dll
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Legion/!svn/ver/3/trunk/lib/search.dll
+END
+cximage.lib
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/Legion/!svn/ver/3/trunk/lib/cximage.lib
+END
+WS2_32.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Legion/!svn/ver/3/trunk/lib/WS2_32.LIB
+END
+xerces-c_3_0_vc80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Legion/!svn/ver/3/trunk/lib/xerces-c_3_0_vc80.dll
+END
+DXGUID.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Legion/!svn/ver/3/trunk/lib/DXGUID.LIB
+END
+jpeg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/Legion/!svn/ver/3/trunk/lib/jpeg.lib
+END
+StrTok.lib
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Legion/!svn/ver/3/trunk/lib/StrTok.lib
+END
+WINMM.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/Legion/!svn/ver/3/trunk/lib/WINMM.LIB
+END
+IMM32.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/Legion/!svn/ver/3/trunk/lib/IMM32.LIB
+END
+WSOCK32.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/Legion/!svn/ver/3/trunk/lib/WSOCK32.LIB
+END
+xerces-c_3.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Legion/!svn/ver/3/trunk/lib/xerces-c_3.lib
+END
+libmysql.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/Legion/!svn/ver/3/trunk/lib/libmysql.lib
+END
+DSOUND.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Legion/!svn/ver/3/trunk/lib/DSOUND.LIB
+END
+Cint.lib
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/Legion/!svn/ver/3/trunk/lib/Cint.lib
+END
+xerces-c_3D.lib
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/3/trunk/lib/xerces-c_3D.lib
+END
+libmysql.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/Legion/!svn/ver/3/trunk/lib/libmysql.dll
+END
+DDRAW.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/Legion/!svn/ver/3/trunk/lib/DDRAW.LIB
+END
+DINPUT.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Legion/!svn/ver/3/trunk/lib/DINPUT.LIB
+END
+search.lib
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Legion/!svn/ver/3/trunk/lib/search.lib
+END
+GameServerStrTok.lib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Legion/!svn/ver/3/trunk/lib/GameServerStrTok.lib
+END
+DesDll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Legion/!svn/ver/3/trunk/lib/DesDll.lib
+END

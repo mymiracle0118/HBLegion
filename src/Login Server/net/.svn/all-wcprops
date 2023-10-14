@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/net
+END
+XSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/net/XSocket.cpp
+END
+XSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/net/XSocket.h
+END
+Msg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/net/Msg.cpp
+END
+MsgCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/net/MsgCodes.h
+END
+Msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/Login%20Server/net/Msg.h
+END

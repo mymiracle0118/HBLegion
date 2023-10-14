@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map
+END
+Teleport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/Teleport.cpp
+END
+StrategicPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/StrategicPoint.cpp
+END
+TeleportLoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/TeleportLoc.h
+END
+OccupyFlag.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/OccupyFlag.h
+END
+Tile.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/Tile.h
+END
+Teleport.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/Teleport.h
+END
+StrategicPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/StrategicPoint.h
+END
+DynamicObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/DynamicObject.cpp
+END
+Map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/Map.cpp
+END
+DynamicObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/DynamicObject.h
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/Map.h
+END
+TeleportLoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/TeleportLoc.cpp
+END
+OccupyFlag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/OccupyFlag.cpp
+END
+Tile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/Tile.cpp
+END
+DynamicObjectID.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Legion/!svn/ver/2/trunk/src/HG%20Server/map/DynamicObjectID.h
+END
